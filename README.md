@@ -1,4 +1,4 @@
-#VZM and vcf to HTML
+# VZM and vcf to HTML
 
 This is a script I wrote to convert Verizon message exports (circa 2017) and an associated vCard file to useful HTML
 
